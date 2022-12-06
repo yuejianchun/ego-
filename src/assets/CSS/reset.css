@@ -1,0 +1,19 @@
+@import url('https://at.alicdn.com/t/font_3452649_qayp27kf1i.css?spm=a313x.7781069.1998910419.116&file=font_3452649_qayp27kf1i.css');
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+body{
+    font-family: '微软雅黑', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    background-color: #f5f5f5;
+}
