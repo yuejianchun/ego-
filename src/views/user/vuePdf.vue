@@ -13,7 +13,7 @@
     <p>{{ currentPage }} / {{ pageCount }}</p>
     <el-button @click="print">打印合同</el-button>
     <pdf
-      src="./sxt.pdf"
+      src="./ht.pdf"
       ref='mypdf'
       :page="num"
       @num-pages="pageCount = $event"
